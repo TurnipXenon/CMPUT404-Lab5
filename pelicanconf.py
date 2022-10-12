@@ -1,6 +1,8 @@
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
-SITEURL = ''
+SITEURL = 'https://turnipxenon.github.io/CMPUT404-Lab5/'
+THEME = 'templates/mytheme'
+
 
 PATH = 'content'
 

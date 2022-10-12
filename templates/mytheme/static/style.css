@@ -1,0 +1,13 @@
+html,
+body {
+    margin: 0;
+    border: 0;
+    font-size: 139%;
+    background-color: #B00B1E;
+    color: #ffffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+header {
+    background-color: #696969;
+}
