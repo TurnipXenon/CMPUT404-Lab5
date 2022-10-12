@@ -1,13 +1,13 @@
 html,
 body {
-    margin: 12;
-    border: 3;
+    margin: 12em;
+    border: 3em;
     font-size: 139%;
-    background-color: #696969;
+    background-color: #21ab86;
     color: #ffffff;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
-::content {
-    background-color: #B00B1E;
+li {
+    color: #b544a7;
 }
